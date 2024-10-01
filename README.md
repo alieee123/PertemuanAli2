@@ -1,2 +1,2 @@
-# PertemuanAli2 Form Hitung
+Aplikasi Form Hitung
 Belajar membuat Form Hitung dengan Netbeans
